@@ -1,0 +1,6 @@
+Dosyalarla Calisma
+r modu: Okuma modu(Dosya yoksa hata verir)(Default olarak tanimlidir)
+w modu: Yazma modu(Dosya yoksa olusturur)
+r+ modu: Hem okuma hem yazma modu
+a modu: Dosyanin sonuna ekleme modu
+b modu: binary mode
